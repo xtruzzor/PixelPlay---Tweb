@@ -3,36 +3,68 @@
   "WorkspaceRootPath": "D:\\Project Visual Studio\\PixelPlay\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\models\\roleuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\models\\roleuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\customer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\customer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\models\\userrolemaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\models\\userrolemaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\data\\migrations\\20240530090342_addedorder-orderdetailstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\data\\migrations\\20240530090342_addedorder-orderdetailstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\views\\role\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\views\\role\\assign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240530090232_AddedOrder-OrderDetailsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PixelPlay\\Data\\Migrations\\20240530090232_AddedOrder-OrderDetailsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\data\\migrations\\20240529171221_addednewfeildintousertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\data\\migrations\\20240529171221_addednewfeildintousertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|d:\\project visual studio\\pixelplay\\pixelplay\\areas\\admin\\views\\role\\assignuserrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273648E3-DFB0-4328-80EC-5FE06DF1AE81}|PixelPlay\\PixelPlay.csproj|solutionrelative:pixelplay\\areas\\admin\\views\\role\\assignuserrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,105 +87,204 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAADwv3sAAAAAAAAA",
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:40:07.177Z",
+              "WhenOpened": "2024-05-30T20:44:27.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Customer\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Customer\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Customer\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "PixelPlay\\Areas\\Customer\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T09:09:25.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240530090342_AddedOrder-OrderDetailsTable.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240530090342_AddedOrder-OrderDetailsTable.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Data\\Migrations\\20240530090342_AddedOrder-OrderDetailsTable.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240530090342_AddedOrder-OrderDetailsTable.cs",
-              "RelativeToolTip": "PixelPlay\\Data\\Migrations\\20240530090342_AddedOrder-OrderDetailsTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T09:03:42.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240530090232_AddedOrder-OrderDetailsTable.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240530090232_AddedOrder-OrderDetailsTable.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Data\\Migrations\\20240530090232_AddedOrder-OrderDetailsTable.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240530090232_AddedOrder-OrderDetailsTable.cs",
-              "RelativeToolTip": "PixelPlay\\Data\\Migrations\\20240530090232_AddedOrder-OrderDetailsTable.cs",
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T09:02:32.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PixelPlay\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:35:55.852Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T20:44:26.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderDetails.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Models\\OrderDetails.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Models\\OrderDetails.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Models\\OrderDetails.cs",
-              "RelativeToolTip": "PixelPlay\\Models\\OrderDetails.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:35:51.703Z",
+              "WhenOpened": "2024-05-30T20:40:19.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Models\\Order.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Models\\Order.cs",
-              "RelativeToolTip": "PixelPlay\\Models\\Order.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Startup.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Startup.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Startup.cs",
+              "RelativeToolTip": "PixelPlay\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:35:41.258Z",
+              "WhenOpened": "2024-05-30T20:37:21.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PixelPlay\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:36:02.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20240529171221_AddedNewFeildInTouserTable.cs",
-              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240529171221_AddedNewFeildInTouserTable.cs",
-              "RelativeDocumentMoniker": "PixelPlay\\Data\\Migrations\\20240529171221_AddedNewFeildInTouserTable.cs",
-              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Data\\Migrations\\20240529171221_AddedNewFeildInTouserTable.cs",
-              "RelativeToolTip": "PixelPlay\\Data\\Migrations\\20240529171221_AddedNewFeildInTouserTable.cs",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Customer\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T08:35:39.063Z",
+              "WhenOpened": "2024-05-30T19:31:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:31:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:27:04.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRoleMaping.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Models\\UserRoleMaping.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Models\\UserRoleMaping.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Models\\UserRoleMaping.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Models\\UserRoleMaping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:26:39.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleUserVm.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Models\\RoleUserVm.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Models\\RoleUserVm.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Models\\RoleUserVm.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Models\\RoleUserVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:26:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssignUserRole.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\AssignUserRole.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Views\\Role\\AssignUserRole.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\AssignUserRole.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Views\\Role\\AssignUserRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:25:14.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assign.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Assign.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Views\\Role\\Assign.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Assign.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Views\\Role\\Assign.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:24:39.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Views\\Role\\Delete.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Delete.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Views\\Role\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:24:11.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:23:45.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T19:22:45.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "PixelPlay\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "PixelPlay\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAIwIkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:22:33.321Z",
               "EditorCaption": ""
             }
           ]
