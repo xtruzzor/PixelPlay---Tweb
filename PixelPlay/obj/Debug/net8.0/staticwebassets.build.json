@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rmhYCvy2aCzpoThiBvkwgVF8wFBNegiO85Rg5uRN6Lw=",
+  "Hash": "bjfV8Rf7Z6CcOup8Q0sXysyLNCGfUxCpjXAbTlLBR3o=",
   "Source": "PixelPlay",
   "BasePath": "_content/PixelPlay",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PixelPlay\\wwwroot",
       "Source": "PixelPlay",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\munli\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PixelPlay.styles.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PixelPlay.styles.css",
       "SourceId": "PixelPlay",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "PixelPlay.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PixelPlay.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PixelPlay.styles.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PixelPlay.bundle.scp.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PixelPlay.bundle.scp.css",
       "SourceId": "PixelPlay",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "PixelPlay.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PixelPlay.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PixelPlay.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\css\\site.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\favicon.ico",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1233,10 +1233,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\Capture001.png",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\app-store.png",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/app-store.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\app-store.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\atomicheart.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/atomicheart.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\atomicheart.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\Capture001.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "Images/Capture001.png",
       "AssetKind": "All",
@@ -1252,10 +1290,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\Capture001.png"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\cart.svg",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\cart.png",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/cart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cart.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\cart.svg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "Images/cart.svg",
       "AssetKind": "All",
@@ -1271,10 +1328,67 @@
       "OriginalItemSpec": "wwwroot\\Images\\cart.svg"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\download.jpg",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\cyberpunk.jpg",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/cyberpunk.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cyberpunk.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\daymare1994.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/daymare1994.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\daymare1994.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\deadspace.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/deadspace.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\deadspace.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\download.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "Images/download.jpg",
       "AssetKind": "All",
@@ -1290,10 +1404,124 @@
       "OriginalItemSpec": "wwwroot\\Images\\download.jpg"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\instock.png",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\fc6.jpeg",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/fc6.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\fc6.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\forspoken.jpeg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/forspoken.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\forspoken.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\FPS.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/FPS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\FPS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\games.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/games.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\games.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\GofOfWar.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/GofOfWar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\GofOfWar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\image.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\image.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\instock.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "Images/instock.png",
       "AssetKind": "All",
@@ -1309,10 +1537,105 @@
       "OriginalItemSpec": "wwwroot\\Images\\instock.png"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\notinstock.png",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\logo.png",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\logowhite.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/logowhite.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\logowhite.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\mastercard.svg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/mastercard.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\mastercard.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\menu.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/menu.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\menu.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\metro exodus.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/metro exodus.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\metro exodus.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\notinstock.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "Images/notinstock.png",
       "AssetKind": "All",
@@ -1328,10 +1651,67 @@
       "OriginalItemSpec": "wwwroot\\Images\\notinstock.png"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\Red_Dead_Redemption_II.jpg",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\paypal.svg",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/paypal.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\paypal.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\play-store.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/play-store.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\play-store.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\rdr2.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/rdr2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\rdr2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\Red_Dead_Redemption_II.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "Images/Red_Dead_Redemption_II.jpg",
       "AssetKind": "All",
@@ -1347,10 +1727,143 @@
       "OriginalItemSpec": "wwwroot\\Images\\Red_Dead_Redemption_II.jpg"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\redfall.jpg",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/redfall.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\redfall.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\residentevil4.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/residentevil4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\residentevil4.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\RPG.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/RPG.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\RPG.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\RTS.jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/RTS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\RTS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\streetfighter6 (1).jpg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/streetfighter6 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\streetfighter6 (1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\tlou1.png",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/tlou1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\tlou1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\visa.svg",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
+      "BasePath": "_content/PixelPlay",
+      "RelativePath": "Images/visa.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\visa.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\js\\site.js",
+      "SourceId": "PixelPlay",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1366,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1385,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1404,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1423,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1461,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1480,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1499,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1537,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1556,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1575,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1613,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1632,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1651,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1689,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1708,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1727,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1765,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1784,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1803,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1822,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1841,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1860,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1879,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1898,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1917,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1936,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1955,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1974,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1993,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2012,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2031,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2069,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2088,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2107,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2126,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2145,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2164,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2183,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2202,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2221,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2240,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2259,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2278,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2297,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2316,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2335,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2354,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2373,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2392,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2411,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2430,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PixelPlay",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\",
       "BasePath": "_content/PixelPlay",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

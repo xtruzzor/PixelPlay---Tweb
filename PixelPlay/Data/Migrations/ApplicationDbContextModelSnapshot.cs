@@ -250,7 +250,7 @@ namespace PixelPlay.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
                 });
 
             modelBuilder.Entity("PixelPlay.Models.OrderDetails", b =>
@@ -273,7 +273,7 @@ namespace PixelPlay.Data.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("OrderDetails");
+                    b.ToTable("OrderDetails", (string)null);
                 });
 
             modelBuilder.Entity("PixelPlay.Models.ProductTypes", b =>
@@ -290,7 +290,7 @@ namespace PixelPlay.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ProductTypes");
+                    b.ToTable("ProductTypes", (string)null);
                 });
 
             modelBuilder.Entity("PixelPlay.Models.Products", b =>
@@ -337,7 +337,7 @@ namespace PixelPlay.Data.Migrations
 
                     b.HasIndex("ProductTypeId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("PixelPlay.Models.ApplicationUser", b =>

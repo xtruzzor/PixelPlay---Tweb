@@ -1,271 +1,379 @@
 {
   "Files": [
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PixelPlay.bundle.scp.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PixelPlay.bundle.scp.css",
       "PackagePath": "staticwebassets\\PixelPlay.bundle.scp.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\Capture001.png",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\Capture001.png",
       "PackagePath": "staticwebassets\\Images\\Capture001.png"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\Red_Dead_Redemption_II.jpg",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\FPS.jpg",
+      "PackagePath": "staticwebassets\\Images\\FPS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\GofOfWar.jpg",
+      "PackagePath": "staticwebassets\\Images\\GofOfWar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\RPG.jpg",
+      "PackagePath": "staticwebassets\\Images\\RPG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\RTS.jpg",
+      "PackagePath": "staticwebassets\\Images\\RTS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\Red_Dead_Redemption_II.jpg",
       "PackagePath": "staticwebassets\\Images\\Red_Dead_Redemption_II.jpg"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\cart.svg",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\app-store.png",
+      "PackagePath": "staticwebassets\\Images\\app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\atomicheart.jpg",
+      "PackagePath": "staticwebassets\\Images\\atomicheart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\cart.png",
+      "PackagePath": "staticwebassets\\Images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\cart.svg",
       "PackagePath": "staticwebassets\\Images\\cart.svg"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\download.jpg",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\cyberpunk.jpg",
+      "PackagePath": "staticwebassets\\Images\\cyberpunk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\daymare1994.png",
+      "PackagePath": "staticwebassets\\Images\\daymare1994.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\deadspace.jpg",
+      "PackagePath": "staticwebassets\\Images\\deadspace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\download.jpg",
       "PackagePath": "staticwebassets\\Images\\download.jpg"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\instock.png",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\fc6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fc6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\forspoken.jpeg",
+      "PackagePath": "staticwebassets\\Images\\forspoken.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\games.jpg",
+      "PackagePath": "staticwebassets\\Images\\games.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\image.png",
+      "PackagePath": "staticwebassets\\Images\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\instock.png",
       "PackagePath": "staticwebassets\\Images\\instock.png"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\Images\\notinstock.png",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\logowhite.png",
+      "PackagePath": "staticwebassets\\Images\\logowhite.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\mastercard.svg",
+      "PackagePath": "staticwebassets\\Images\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\menu.png",
+      "PackagePath": "staticwebassets\\Images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\metro exodus.png",
+      "PackagePath": "staticwebassets\\Images\\metro exodus.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\notinstock.png",
       "PackagePath": "staticwebassets\\Images\\notinstock.png"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\paypal.svg",
+      "PackagePath": "staticwebassets\\Images\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\play-store.png",
+      "PackagePath": "staticwebassets\\Images\\play-store.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\rdr2.jpg",
+      "PackagePath": "staticwebassets\\Images\\rdr2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\redfall.jpg",
+      "PackagePath": "staticwebassets\\Images\\redfall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\residentevil4.png",
+      "PackagePath": "staticwebassets\\Images\\residentevil4.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\streetfighter6 (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\streetfighter6 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\tlou1.png",
+      "PackagePath": "staticwebassets\\Images\\tlou1.png"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\Images\\visa.svg",
+      "PackagePath": "staticwebassets\\Images\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Project Visual Studio\\PixelPlay\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Rietslav\\Documents\\Project Visual Studio 2022\\PixelPlay---Tweb\\PixelPlay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
